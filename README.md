@@ -1,5 +1,7 @@
 # Loan Approval Prediction
 
+https://loan-status-prediction-gewycbcsdqgacavp98vsmc.streamlit.app/
+
 ## Overview
 This project is a machine learning-based loan approval prediction system built using Python and Streamlit. It takes user inputs such as income, credit history, and property details to predict whether a loan application will be approved or not.
 
